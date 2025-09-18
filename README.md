@@ -17,7 +17,7 @@ The aim of this project is to predict whether a client will subscribe to a term 
       Contains the code for predicting the banking System.
   -> Output.pdf
       Contains the output and Decision tree and Accuracy of Prediction.
-  -> bank full.csv
+  -> bank-full.csv
       Contains the data required to perform the task.
       
 
