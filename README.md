@@ -14,7 +14,9 @@ The aim of this project is to predict whether a client will subscribe to a term 
 
 "Contents"
   -> Predication.py
+      Contains the code for predicting the banking System.
   -> Output.pdf
+      Contains the output and Decision tree and Accuracy of Prediction.
 
 "Results & Insights"
   -> Model Performance
